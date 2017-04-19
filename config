@@ -31,7 +31,7 @@ garagepi = /home/pi/garagepi/python/garagepi.py
 [HTTP]
 # HTTP Server configuration
 enabled = true
-port = 8000
+port = 8008
 
 # File containing sha256(base64("user:password"))
 # Use webiopi-passwd command to generate it
